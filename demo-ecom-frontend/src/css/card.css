@@ -1,0 +1,14 @@
+.card {
+  width: 200px;
+  border: 1px solid black;
+  height: fit-content;
+  margin: 20px;
+}
+.cartQuantity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cartQuantity input {
+  width: 50px;
+}
